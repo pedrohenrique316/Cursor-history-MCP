@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# Cursor Chat History Vectorizer & Dockerized Search API
+# Cursor Chat History Vectorizer & Dockerized Search MCP
 
 Vectorize your Cursor chat history and serve it via a simple search API.
 
