@@ -31,9 +31,9 @@ The primary goal is to make your Cursor chat history searchable and usable for R
 ## Setup & Configuration
 
 1.  **Clone/Download the Project:**
-    - Get the `cursor_history_extractor.py` script.
+    - git clone https://github.com/markelaugust74/Cursor-history-API.git
 2.  **Verify Paths (if necessary):**
-    - The script is hardcoded to look for Cursor data in `C:\\Users\\<markel>\\AppData\\Roaming\\Cursor\\User\\workspaceStorage`. If your path is different, you'll need to update the `WORKSPACE_STORAGE_PATH` variable at the top of the `cursor_history_extractor.py` script.
+    - The script is hardcoded to look for Cursor data in `C:\\Users\\<name>\\AppData\\Roaming\\Cursor\\User\\workspaceStorage`. If your path is different, you'll need to update the `WORKSPACE_STORAGE_PATH` variable at the top of the `cursor_history_extractor.py` script.
 3.  **Ensure Ollama is Running:**
     - Start your Ollama application/server.
     - Verify the `nomic-embed-text:latest` model is available (e.g., run `ollama list` in your terminal).
