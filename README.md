@@ -38,9 +38,9 @@ The primary goal is to make your Cursor chat history searchable and usable for R
 *   **Vector Database Storage:** Stores original text, source file, role, and vector embeddings in a LanceDB database.
     *   **LanceDB URI:** `./cursor_chat_history.lancedb` (for the extractor) / `/data/cursor_chat_history.lancedb` (inside Docker container)
     *   **Table Name:** `chat_history`
-*   **Dockerized Search API:** Includes a `Dockerfile` to build a container for the FastAPI search server.
-*   **FastAPI Server (`main.py`):** Acts as the "MCP server" for handling search requests.
-*   **API Endpoints:**
+*   **Dockerized Search :** Includes a `Dockerfile` to build a container for the Fast search server.
+*   **Fast Server (`main.py`):** Acts as the "MCP server" for handling search requests.
+*   ** Endpoints:**
     *   `/search_chat_history` (POST): Performs vector similarity search.
     *   `/health` (GET): Checks server status and connections (Ollama, LanceDB).
 
@@ -76,7 +76,7 @@ The process involves two main steps:
 
 1.  **Clone/Download the Project:**
     ```bash
-    git clone https://github.com/markelaugust74/Cursor-history-API.git
+    git clone https://github.com/markelaugust74/Cursor-history-MCP.git
     cd Cursor-history-API
     ```
 2.  **Install Python dependencies** for the extractor:
