@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+lancedb
+ollama
+pyarrow
+pydantic
+python-dotenv
+pandas 
